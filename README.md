@@ -1,4 +1,4 @@
-# Login and Registration Web Pages
+# 🔐Login and Registration Web Pages
 
 ## Project Description
 This project contains simple **Login** and **Registration** web pages created using **HTML and CSS**.  
@@ -12,7 +12,7 @@ This project demonstrates basic **frontend web development concepts**, including
 
 ---
 
-## Features
+## 🔥Features
 - User Registration Form
 - Login Page
 - Simple and clean UI design
@@ -21,7 +21,7 @@ This project demonstrates basic **frontend web development concepts**, including
 
 ---
 
-## Project Files
+## 📁Project Files
 
 ```
 Project Folder
@@ -34,11 +34,11 @@ Project Folder
 
 ---
 
-## Login Page
+## 🔑Login Page
 
 The **Login Page** allows users to enter their login credentials.
 
-### Fields
+### 📁Fields
 - Username
 - Password
 
@@ -50,11 +50,11 @@ Earth Pulse.html
 
 ---
 
-## Registration Page
+## 📝Registration Page
 
 The **Registration Page** allows new users to create an account.
 
-### Fields
+### 📁Fields
 - Full Name
 - Email
 - Username
@@ -70,14 +70,14 @@ so they can log in using their new account.
 
 ---
 
-## Technologies Used
+## ⚙️Technologies Used
 
 - HTML5
 - CSS3
 
 ---
 
-## How to Run the Project
+## 🚀How to Run the Project
 
 1. Download or clone the project folder.
 2. Make sure all files are in the same directory.
@@ -87,13 +87,13 @@ so they can log in using their new account.
 
 ---
 
-## Note
+## 🗒️Note
 This project is a **frontend-only project**.  
 There is **no backend database or authentication system** implemented.
 
 ---
 
-## Future Improvements
+## 🔮Future Improvements
 
 - Add JavaScript validation
 - Connect to a backend (PHP / Node.js)
@@ -102,5 +102,5 @@ There is **no backend database or authentication system** implemented.
 
 ---
 
-## Author
+## 🔥Author
 This project was created for learning purposes.
