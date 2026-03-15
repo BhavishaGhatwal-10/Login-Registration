@@ -103,4 +103,5 @@ There is **no backend database or authentication system** implemented.
 ---
 
 ## 🔥Author
+[**Bhavisha Ghatwal**](https://github.com/BhavishaGhatwal-10)
 This project was created for learning purposes.
